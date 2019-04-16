@@ -75,13 +75,13 @@ Running migrations:
 ```
 You can see below list of tables created in SQL server database *DjangoSQLServerTest*
 
--django_migrations
--django_content_type
--auth_permission
--auth_group
--auth_group_permissions
--auth_user
--auth_user_groups
--auth_user_user_permissions
--django_admin_log
--django_session
+- django_migrations
+- django_content_type
+- auth_permission
+- auth_group
+- auth_group_permissions
+- auth_user
+- auth_user_groups
+- auth_user_user_permissions
+- django_admin_log
+- django_session
