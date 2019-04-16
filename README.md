@@ -1,5 +1,5 @@
 # Django-SQL-server-connection
-Use Ms SQL server 2017 as back end for Django 2
+Use MS SQL server 2017 as backend for Django 2
 
 #### Requirements
 - Python 3.7.1
